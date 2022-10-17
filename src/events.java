@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class events {
     int levelNum, enemyAmount, phealth;
     String prompt;
-    String[] enemyNames = {"“Pimple”", "Dimple", "Domple", "Doople", "Boople"};
+    String[] enemyNames = {"“Pimple”", "Dimple", "Domple", "Doople", "Boople","Droople","Snoople","Nuckle","Cooper","Moople","BloopleSloople"};
     Random random = new Random();
 
     public events(int glevelNum, int genemyAmount, int gphealth,String gprompt){
